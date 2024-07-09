@@ -10,12 +10,12 @@
 #### Low vision
 * Page content must be resized up to 200% without loss of contnet and functionality(browser zoom 500% and content size double)
 * All text must have proper contrast ratio, for reqular text 4.5:1 and large text 3:1
-* Focusable element should be distinguishable with differnet states (Focus, hover, selected) with contrat ration of 3:1
+* Focusable element should be distinguishable with different states (Focus, hover, selected) with contrat ration of 3:1
 * Content should be distict from control
 * Must have obvious visual focus indicator(contrat ratio 3:1 with 2px and larger indicator)
 #### Motor Control disability
 * All control must be avaiable with mouse and keyboard
-* Focusable element should be distinguishable with differnet states (Focus, hover, selected) with contrat ration of 3:1
+* Focusable element should be distinguishable with different states (Focus, hover, selected) with contrat ration of 3:1
 * Must have obvious visual focus indicator(contrat ratio 3:1 with 2px and larger indicator)
 * Time dependent functonality must be turned off, adjustable and extendable
 * Click/touch target should be large enough without risking activating adjacent control.
