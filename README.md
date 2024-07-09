@@ -27,5 +27,5 @@
 * Consistant Identificaiton
 * Simpler language
 * Provide suplemental format
-* Not rely on conginitive ability to perform action.
+* Reduce cognitive load.
 
