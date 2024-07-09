@@ -18,5 +18,5 @@
 * Focusable element should be distinguishable with different states (Focus, hover, selected) with contrat ration of 3:1
 * Must have obvious visual focus indicator(contrat ratio 3:1 with 2px and larger indicator)
 * Time dependent functonality must be turned off, adjustable and extendable
-* Click/touch target should be large enough without risking activating adjacent control.
+* Click/touch target should be large enough without risking activating adjacent controls.
 
