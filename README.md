@@ -29,4 +29,5 @@
 * Provide suplemental format
 * Reduce cognitive load.
 * Offer help
+* Eliminate distractions and enhance focus.
 
