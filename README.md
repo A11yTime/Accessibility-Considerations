@@ -22,4 +22,10 @@
 
 #### Cognitive disability
 ###### Cognitive disability is most common type of disabilites by far. Web content accessibility guidelines don't completely address cognitive disability but we can push the wall of design to enhance the experience for cognitive disability these are:
+* Simplify the design
+* Cositant navigation
+* Consistant Identificaiton
+* Simpler language
+* Provide suplemental format
+* Not rely on conginitive ability to perform action.
 
