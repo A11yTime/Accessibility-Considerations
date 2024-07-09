@@ -28,4 +28,5 @@
 * Simpler language
 * Provide suplemental format
 * Reduce cognitive load.
+* Offer help
 
