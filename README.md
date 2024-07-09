@@ -7,3 +7,4 @@
 * All custom widget must have name, role and value to expose screen reader
 * All action on page should have immediate feedback either with native or aira
 * Video content must have equivalent alternative to accommodate different disabilities(transcripton, caption and audio description)
+#### Low vision
