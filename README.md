@@ -20,3 +20,6 @@
 * Time dependent functonality must be turned off, adjustable and extendable
 * Click/touch target should be large enough without risking activating adjacent controls.
 
+#### Cognitive disability
+###### Cognitive disability is most common type of disabilites by far. Web content accessibility guidelines don't completely address cognitive disability but we can push the wall of design to enhance the experience for cognitive disability these are:
+
