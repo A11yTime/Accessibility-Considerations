@@ -30,5 +30,16 @@
 * Reduce cognitive load.
 * Eliminate distractions and enhance focus.
 * Offer help
+  
+#### Color blindness
+* All content on the page must be understandable without relying on color(Combination of red and green)
 
+#### Hard of hearing
+* All video content must have captions and all audio only content must have transcriptions
 
+#### Deafblindness
+* All considerations for blindness and deafness apply
+* It is highly recomded to provide transcriptions for audio and video content.
+
+#### Speech disabilities
+* Voice dependent functionality must have alternative.
