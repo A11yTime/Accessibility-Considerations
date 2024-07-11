@@ -1,7 +1,7 @@
 # Accessibility-Considerations of different disabilites
 ### Vision disability
 #### Blind
-* All content must be presented in real text and when presented in image of text and image itself must have alternative text to serve the equivalent purpose.
+* All content must be available in text to serve the equivalent purpose.
 * Focusable element must be available and function with mouse and keyboard.
 * Page must be structue with good semantics either with native html tags or aria. It is highly recomended use of native element rather than aria.
 * All custom widget must have name, role and value to expose screen reader
