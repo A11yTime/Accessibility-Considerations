@@ -28,7 +28,6 @@
 * Consistant navigation
 * Consistant Identificaiton
 * Clear label and instruction
-* Error suggeston and prevention
 * Provide suplemental format
 * Reduce cognitive load.
 * Eliminate distractions and enhance focus.
