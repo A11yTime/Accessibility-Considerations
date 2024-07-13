@@ -21,7 +21,7 @@
 * All content on the page must be understandable without relying on color alone (Combination of red and green)
   
 #### Motor Control disability
-* All controls must be avaiable with keyboard mouse as well.
+* All controls must be avaiable with keyboard and mouse as well.
 * Focusable elements should be distinguishable in different states (Focus, hover, selected) with contrast ration of 3:1
 * Must have obvious visual focus indicator(contrat ratio 3:1 with 2px and larger indicator)
 * Time dependent functonality must have mechanism to turn off, adjust and extent the time limit.
