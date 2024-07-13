@@ -11,8 +11,9 @@
 * Cutom swipe action must have alternative(with single pointer).
   
 #### Low vision
-* Page content must be resized up to 200% without loss of contnet and functionality(browser zoom 500% and content size double)
+* Page content must be resized up to 200% without loss of contnet and functionality.
 * All text and image of text must have proper contrast ratio, for reqular text 4.5:1 and large text 3:1
+* Image of text should not be used If the same visual presentation can be made using text alone.
 * Focusable element should be distinguishable in different states (Focus, hover, selected) with contrast ration of 3:1
 * Content should be distict from control
 * Must have obvious visual focus indicator(contrat ratio 3:1 with 2px and larger indicator)
