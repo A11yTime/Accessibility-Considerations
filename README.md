@@ -8,12 +8,17 @@
 * All action on page should have immediate feedback either with native or aira
 * Video content must have equivalent alternative (transcripton, caption and audio description) to accommodate different disabilities
 * Cutom swipe action must have alternative(with single pointer).
+  
 #### Low vision
 * Page content must be resized up to 200% without loss of contnet and functionality(browser zoom 500% and content size double)
 * All text and image of text must have proper contrast ratio, for reqular text 4.5:1 and large text 3:1
 * Focusable element should be distinguishable in different states (Focus, hover, selected) with contrast ration of 3:1
 * Content should be distict from control
 * Must have obvious visual focus indicator(contrat ratio 3:1 with 2px and larger indicator)
+
+  #### Color blindness
+* All content on the page must be understandable without relying on color alone (Combination of red and green)
+  
 #### Motor Control disability
 * All controls must be avaiable with mouse and keyboard
 * Focusable element should be distinguishable in different states (Focus, hover, selected) with contrast ration of 3:1
@@ -32,9 +37,6 @@
 * Reduce cognitive load.
 * Eliminate distractions and enhance focus.
 * Offer help
-  
-#### Color blindness
-* All content on the page must be understandable without relying on color alone (Combination of red and green)
 
 #### Hard of hearing
 * All video content must have captions and all audio only content must have transcriptions
