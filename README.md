@@ -1,5 +1,6 @@
 # Accessibility-Considerations of different disabilites
-### Vision disability
+### Visual disability
+##### Visual disabilities rages from low vision to blindness and some people have color blindness.
 #### Blind
 * All content must be available in text to serve the equivalent purpose.
 * Focusable element must be available and function with keyboard.
