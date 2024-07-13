@@ -6,7 +6,7 @@
 * Page must be structue with good semantics either with native html tags or aria. It is highly recomended use of native element rather than aria.
 * All custom widget must have name, role and value to expose screen reader
 * All action on page should have immediate feedback either with native or aira
-* Video content must have equivalent alternative to accommodate different disabilities(transcripton, caption and audio description)
+* Video content must have equivalent alternative (transcripton, caption and audio description) to accommodate different disabilities
 #### Low vision
 * Page content must be resized up to 200% without loss of contnet and functionality(browser zoom 500% and content size double)
 * All text must have proper contrast ratio, for reqular text 4.5:1 and large text 3:1
