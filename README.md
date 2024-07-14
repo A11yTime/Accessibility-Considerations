@@ -17,7 +17,7 @@
 * Focusable element should be distinguishable in different states (Focus, hover, selected) with contrast ration of 3:1
 * Controls should be distict from content and must have obvious visual focus indicator(contrat ratio 3:1 with 2px and larger indicator)
 
-  #### Color blindness
+#### Color blindness
 * All content on the page must be understandable without relying on color alone (Combination of red and green)
   
 #### Motor Control disability
