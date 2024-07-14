@@ -5,7 +5,7 @@
 * All content must be available in text to serve the equivalent purpose.
 * Focusable element must be available and function with keyboard.
 * Page must be structue with good semantics either with native html tags or aria. It is highly recomended use of native element rather than aria.
-* All custom widget must have name, role and value to expose screen reader
+* All custom widget must have name, role and value(when appropriate) to expose screen reader.
 * All action on page should have immediate feedback either with native or aira
 * Video content must have equivalent alternative (transcripton, caption and audio description) to accommodate different disabilities
 * Cutom swipe action must have alternative(with single pointer).
