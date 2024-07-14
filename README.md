@@ -26,6 +26,7 @@
 * Must have obvious visual focus indicator(contrat ratio 3:1 with 2px and larger indicator)
 * Time dependent functonality must have mechanism to turn off, adjust and extent the time limit.
 * Click/touch target should be large enough without risking activating adjacent controls.
+* Page provide mechanism to bypass block of content that are repeated on multiple webpage.
 
 #### Cognitive disability
 ##### Cognitive disability is most common type of disabilites by far. Web content accessibility guidelines don't completely address cognitive disability but with sophisticated design consideratons help to enhance the experience for cognitive disability:
