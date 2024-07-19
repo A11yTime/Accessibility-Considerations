@@ -15,7 +15,7 @@
 * All text and image of text must have proper contrast ratio, for reqular text 4.5:1 and large text 3:1
 * Image of text should not be used If the same visual presentation can be made using text alone.
 * Focusable element should be distinguishable in different states (Focus, hover, selected) with contrast ration of 3:1
-* Controls should be distunguishable from content and have obvious visual focus indicator.
+* Controls should be distinct from content and have obvious visual focus indicator.
 
 #### Color blindness
 * All content on the page must be understandable without relying on color alone (Combination of red and green)
